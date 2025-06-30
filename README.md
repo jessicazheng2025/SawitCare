@@ -38,18 +38,17 @@ Place your best.pt YOLO model file in the project root.
    ```bash
    http://127.0.0.1:5000/
 
-
 ## 📂 Project Structure
-```plaintext
-SawitCare/
-├── app.py
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   ├── uploads/
-│   ├── results/
-└── best.pt
+      ```plaintext
+      SawitCare/
+      ├── app.py
+      ├── requirements.txt
+      ├── templates/
+      │   └── index.html
+      ├── static/
+      │   ├── uploads/
+      │   ├── results/
+      └── best.pt
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/0e58b962-99f3-4990-ba34-f9340a7fa2b7)
