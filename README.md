@@ -15,6 +15,13 @@ SawitCare is a web application to detect healthy/unhealthy oil palm trees from a
 - HTML, CSS, Bootstrap (Frontend)
 
 
+## 📂 Dataset 
+The datasets used in this project come from two sources on [Roboflow](https://universe.roboflow.com):
+- [Final Year Project KDNEP](https://universe.roboflow.com/health-detection/final-year-project-kdnep)  
+  This dataset contains data for plant health detection, suitable for object detection tasks.
+- [Oil Palm Pest Detection](https://universe.roboflow.com/research-track-socs-24/deteksi-hama-kelapa-sawit-finale)  
+  This dataset is used for detecting various pests on oil palm trees.
+
 ## 📦 Installation & Usage
 
 1. Clone this repository:
@@ -39,7 +46,7 @@ Place your best.pt YOLO model file in the project root.
    http://127.0.0.1:5000/
 
 ## 📂 Project Structure
-      ```plaintext
+   ```plaintext
       SawitCare/
       ├── app.py
       ├── requirements.txt
@@ -49,13 +56,18 @@ Place your best.pt YOLO model file in the project root.
       │   ├── uploads/
       │   ├── results/
       └── best.pt
+   ```
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/0e58b962-99f3-4990-ba34-f9340a7fa2b7)
 
 
-## ✏️ License
+## License
 This project is open source and available under the MIT License.
 
-🙌 Author
+### Author
+```
 Jessica Zheng
+30 Juni 2025
+```
+
