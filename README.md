@@ -40,6 +40,7 @@ Place your best.pt YOLO model file in the project root.
 
 
 ## 📂 Project Structure
+```plaintext
 SawitCare/
 ├── app.py
 ├── requirements.txt
