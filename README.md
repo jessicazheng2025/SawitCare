@@ -23,34 +23,9 @@ SawitCare is a web application to detect healthy/unhealthy oil palm trees from a
    git clone https://github.com/jessicazheng2025/SawitCare.git
    cd SawitCare
 
-  Install the required Python packages:
-
-bash
-Salin
-Edit
-pip install -r requirements.txt
-(You need Python 3.7+ installed.)
-
-Add your trained YOLO model file best.pt to the project root.
-
-Run the application:
-
-bash
-Salin
-Edit
-python app.py
-Open your browser and go to:
-
-cpp
-Salin
-Edit
-http://127.0.0.1:5000/
-📸 Screenshot
-
 2. Install the required Python packages
    ```bash
    pip install -r requirements.txt
-
 
 3. Add your trained YOLO model
 Place your best.pt YOLO model file in the project root.
